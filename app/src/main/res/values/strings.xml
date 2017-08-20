@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WIFI断流监听</string>
+
+    <string name="ticker_content">WIFI监听服务正在启动</string>
+
+    <string name="notification_title">WIFI监听服务</string>
+
+    <string name="notification_content">WIFI监听服务正在运行</string>
+
+    <string name="notification_change_net_title">WIFI状态改变</string>
+    <string name="notification_title_cut">WIFI断开了</string>
+    <string name="notification_title_connect">WIFI连接上了</string>
+
+
+</resources>
